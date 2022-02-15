@@ -12,6 +12,6 @@
 
 <div>
 
-  <a align="center"href="https://www.linkedin.com/in/robert-oliveira-4799b7138/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black"></a>
+  <a href="https://www.linkedin.com/in/robert-oliveira-4799b7138/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black"></a>
 
 </div>
