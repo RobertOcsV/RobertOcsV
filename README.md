@@ -1,8 +1,8 @@
 <div>
 <a href="https://github.com/RobertOcsV/RobertOcsV">
-<img align="center"height="180em" width="500px" src="https://github-readme-stats.vercel.app/api?username=RobertOcsV&show_icons=true&theme=dark"/>
+<img align="center"height="190em" width="150em" src="https://github-readme-stats.vercel.app/api?username=RobertOcsV&show_icons=true&theme=dark"/>
 <br>
-<img align="center"height="180em" width="500px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertOcsV&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats">
+<img align="center"height="190em" width="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertOcsV&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats">
 </div>
 
 
