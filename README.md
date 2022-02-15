@@ -1,6 +1,6 @@
 <div>
 <a href="https://github.com/RobertOcsV/RobertOcsV">
-<img align="left"height="180em" width="50%"  src="https://github-readme-stats.vercel.app/api?username=RobertOcsV&show_icons=true&theme=dark">
+<img align="right"height="180em" width="50%"  src="https://github-readme-stats.vercel.app/api?username=RobertOcsV&show_icons=true&theme=dark">
 <br><br>
 <img align="right"  height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertOcsV&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats">
 <div>
