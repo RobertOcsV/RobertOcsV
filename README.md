@@ -5,5 +5,5 @@
 </div>
 
 <div>
-<img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+<img height="30px" width="30px" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 <div>
