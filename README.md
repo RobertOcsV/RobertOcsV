@@ -9,9 +9,8 @@
 <img  alt="robert css" align="center" heigh="30px" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img  alt="robert js" align="center" heigh="30px" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <div>
-
+<br>
+  
 <div>
-
   <a href="https://www.linkedin.com/in/robert-oliveira-4799b7138/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black"></a>
-
 </div>
