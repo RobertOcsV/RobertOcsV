@@ -6,5 +6,6 @@
 
 <div display="flex" justify-content="column">
 <img  alt="robert html"align="center" heigh="30px" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img  alt="robert html"align="center" heigh="30px" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img  alt="robert css"align="center" heigh="30px" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img  alt="robert css"align="center" heigh="30px" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <div>
