@@ -3,3 +3,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertOcsV&show_icons=true&theme=dark"/>
 <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertOcsV&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats">
 </div>
+
+<div>
+<img rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+<img rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+<div>
