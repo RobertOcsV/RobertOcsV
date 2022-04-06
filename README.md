@@ -1,7 +1,7 @@
  <div align="center">
   <div>
-  <img height="45%" width="45%" src="https://github-readme-stats.vercel.app/api?username=RobertOcsV&show_icons=true&theme=dark">
-  <img height="50%" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertOcsV&layout=compact&theme=dark">
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=RobertOcsV&show_icons=true&theme=dark">
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertOcsV&layout=compact&theme=dark">
   </div>
   <hr>
   
