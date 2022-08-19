@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c841e2&height=180&section=header&text=Robert Oliveira Correia Santos&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c841e2&height=180&section=header&text=Robert Oliveira Correia Santos&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> -->
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RobertOcsV&show_icons=true&count_private=true&hide_border=true&title_color=ff4838&icon_color=ff4838&text_color=c9d1d9&bg_color=0d1117" alt="Robert Oliveira stats" /> 
