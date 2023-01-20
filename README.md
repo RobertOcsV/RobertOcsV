@@ -1,13 +1,14 @@
 <!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c841e2&height=180&section=header&text=Robert Oliveira Correia Santos&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> -->
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RobertOcsV&show_icons=true&count_private=true&hide_border=true&title_color=ff4838&icon_color=ff4838&text_color=c9d1d9&bg_color=0d1117" alt="Robert Oliveira stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertOcsV&layout=compact&hide_border=true&title_color=ff4838&text_color=c9d1d9&bg_color=0d1117" />
+<!--<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RobertOcsV&show_icons=true&theme=transparent" 
+       alt="Robert Oliveira stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertOcsV&layout=compact" />
 </div>
-
+-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4838&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Robert+Oliveira+Correia+Santos;I'm+20+years+old;I'm+from+Brazil,+SP;I+study+Analysis+and+development+of+systems+at+fiap!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=RobertOcsV&theme=gotham&color=c841e2&line=b219e5&point=5c0f9b&area_color=9a57d1&hide_border=true&area=true)
+
 
  
 ### Main skills:
