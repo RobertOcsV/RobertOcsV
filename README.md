@@ -6,7 +6,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertOcsV&layout=compact" />
 </div>
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4838&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Robert+Oliveira+Correia+Santos;I'm+20+years+old;I'm+from+Brazil,+SP;I+study+Analysis+and+development+of+systems+at+fiap!;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4838&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Robert+Oliveira+Correia+Santos;I'm+21+years+old;I'm+from+Brazil,+SP;I+study+Analysis+and+development+of+systems+at+fiap!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 
