@@ -14,7 +14,7 @@
 ### Main skills:
  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+![HRML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white);
 ![Javascript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![angular](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angular&logoColor=red&labelColor=0D1117)&nbsp; 
 
