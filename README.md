@@ -1,15 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4838&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Robert+Oliveira;I'm+from+Brazil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
-
- 
-<!--<h3 align="left">Connect with me:</h3> 
-<p align="left">
-<a href="https://www.linkedin.com/in/robert-oliveira-4799b7138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robert oliveira" height="30" width="40" /></a>
-</p>
--->
-
 <br>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=RobertOcsV&theme=dark&hide_border=true&border_radius=9&card_width=700&" alt="robertocsv" />
